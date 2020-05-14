@@ -4,4 +4,4 @@
 * Test
 * [Quellen](Quellennachweis.pdf)
 
-![alt](TangibleSeparateGrison-mobile.gif) ![alt](PlushCelebratedKronosaurus-mobile.gif)
+<img src="TangibleSeparateGrison-mobile.gif" width="100" height="100"\>
