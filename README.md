@@ -4,4 +4,4 @@
 * Test
 * [Quellen](Quellennachweis.pdf)
 
-![alt](TangibleSeparateGrison-mobile.mp4)
+![alt](TangibleSeparateGrison-mobile.gif)
