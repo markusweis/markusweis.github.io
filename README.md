@@ -16,8 +16,11 @@
 [Logistische Funktion Geogebra](https://www.geogebra.org/m/mbznmn6k)
 
 
-
 [Bifurkation](bifurkation.md)
+
+[Mandelbortmenge](mandelbrot.md)
 
 
 [Quellen](Quellennachweis.pdf)
+
+
