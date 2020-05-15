@@ -20,6 +20,8 @@
 
 [Mandelbrotmenge](mandelbrot.md)
 
+[Feigenbaumkonstante](feigenbaum.md)
+
 
 [Quellen](Quellennachweis.pdf)
 
