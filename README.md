@@ -18,7 +18,7 @@
 
 [Bifurkation](bifurkation.md)
 
-[Mandelbortmenge](mandelbrot.md)
+[Mandelbrotmenge](mandelbrot.md)
 
 
 [Quellen](Quellennachweis.pdf)
