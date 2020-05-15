@@ -5,7 +5,7 @@
  <img src="https://thumbs.gfycat.com/FlickeringMixedAmericanbulldog-small.gif" width="400" height="400"/>
  
 ## Lorenzattraktor
-<img src="https://thumbs.gfycat.com/PlushCelebratedKronosaurus-size_restricted.gif" width="200" height="200"/> 
+<img src="https://thumbs.gfycat.com/PlushCelebratedKronosaurus-size_restricted.gif" width="400" height="400"/> 
 
 
 ## Logistische Funktion 
