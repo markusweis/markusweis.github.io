@@ -22,7 +22,7 @@ Bifurkationsdiagramm
 <img src="bifurcationsdiagramm.png" width="600" height="400"/>
 
 
-<img src="youtube-video-gif.gif" width="600" height="400"/>
+<img src="012.gif" width="600" height="400"/>
 
 
 
