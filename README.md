@@ -1,8 +1,3 @@
----
-layout: doctoc
-title: Example header page
----
-
 # Chaos
 
 * [Logistische Funktion](https://www.geogebra.org/m/mbznmn6k)
